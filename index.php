@@ -123,7 +123,7 @@ and open the template in the editor.
 
                                 <center>
                                 <p class="alert alert-warning" >
-                                    <strong> Amanhecer |<span id="amanhecer"></span></strong> 
+                                    <strong> Amanhecerr |<span id="amanhecer"></span></strong> 
 
                                     <span id="situacao"> </span>
                                     <img src="img/icones/nascer.png" width="47"/>
